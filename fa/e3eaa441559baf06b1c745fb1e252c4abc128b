@@ -1,0 +1,19 @@
+contrib/opencode/atuin.ts
+  s_411a3c6e9f4067::t_d064391ced0f66 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fae3eaa441559baf06b1c745fb1e252c4abc128b",
+  "prompts": {},
+  "sessions": {
+    "s_411a3c6e9f4067": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_037d514e6ffelILhO5V5Hf44yG",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Braxton Schafer <bschafer@cloudflare.com>"
+    }
+  }
+}
